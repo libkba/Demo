@@ -1,0 +1,3 @@
+[submodule "DemoSub"]
+	path = DemoSub
+	url = https://github.com/kristianbay/DemoSub.git
